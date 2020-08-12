@@ -4,11 +4,11 @@ As a start up, we want to collaborate with many different organizations and dete
 
 *Note: the most preferred key partners have check marks in the front of the sentences.*
 
-- [x] ***Airbnb and local hotels:*** This partnership provides sponsorship opportunities to Hybrid Commute, offers cheaper and better services to our customer, as well as boost our brand awareness.
-- [ ] **Local bars, restaurants, and shopping:** Would provide destination points scattered throughout a city (as opposed to targeting specific office sites, for example).
-- [ ] **Local governments:** Would need regulatory approval (and certain legislation to ensure no liability).
-- [ ] **Sporitng Goods stores:** Could provide the initial transportation forms; ultimately, we would want to build and brand our own transportation modes, especially afterlearning what is most effective (bikes, scooters, tollerblades, etc.).
-- [ ] **Local tech start-ups:** Provide exposure (word of mouth) to residents most likely to fit into our target demographic.
+- [x] ***Airbnb and local hotels:*** Would provides sponsorship opportunities to Hybrid Commute, offers cheaper and better services to our customer, as well as boost our brand awareness.
+- [ ] **Local bars, restaurants, and shopping stores:** Would provide destination points for our customers, and give us countless sponsorship opportunities (same as Airbnb and local hotels). 
+- [ ] **Local governments:** We rely on local government partnerships in order to continue to operate. Therefore, we need to maintain a healthy relationship with them.
+- [ ] **Sporting Goods stores:** Provide transportaion equipment (bikes, scooters, tollerblades, etc.) to our transportation retal feet with special deals and discounts. They also provide useful insights to our rental fleet such as the newest sporting goods, how to use them, and maintenance them.
+- [ ] **Local tech start-ups:** Provide exposure (word of mouth) to residents that are most likely to fit into our target demographic.
 - [x] ***Paypal and other cashless payment services:*** Would reduce costs and add a measure of autgenticity.
 - [ ] **For initial phases:** Universities, airports, big businesses; specifically student organizations
 - [x] ***Instacart, Lyft, Uber, Doordash, Postmates, and Grubhub:*** Work together to better each other.
