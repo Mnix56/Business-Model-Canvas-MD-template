@@ -5,7 +5,7 @@ As a start up, we want to collaborate with many different organizations and dete
 *Note: the most preferred key partners have check marks in the front of the sentences.*
 
 - [x] ***Airbnb and local hotels:*** Would provides sponsorship opportunities to Hybrid Commute, offers cheaper and better services to our customer, as well as boost our brand awareness.
-- [ ] **Local bars, restaurants, and shopping stores:** Would provide destination points for our customers, and give us countless sponsorship opportunities (same as Airbnb and local hotels). 
+- [ ] **Local bars, restaurants, and shopping stores:** Would provide destination points for our customers, and give us countless sponsorship opportunities (same as Airbnb and local hotels in benefical, but on a different level). 
 - [ ] **Local governments:** We rely on local government partnerships in order to continue to operate. Therefore, we need to maintain a healthy relationship with them.
 - [x] **Sporting Goods stores:** Provide transportaion equipment (bikes, scooters, tollerblades, etc.) to our transportation retal feet with special deals and discounts. They also provide useful insights to our rental fleet such as the newest sporting goods, how to use them, and maintenance them.
 - [ ] **Local tech start-ups:** Provide exposure (word of mouth) to residents that are most likely to fit into our target demographic.
