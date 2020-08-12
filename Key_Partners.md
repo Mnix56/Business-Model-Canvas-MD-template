@@ -1,6 +1,7 @@
+# Key Partners
+
 As a start up, we want to collaborate with many different organizations and determine which ones support our business model best. When we become a more matured company, we have a lot to risk. Therefore, we want reliable and long term relationships.
 
-# Key Partners
 - **Airbnb+local hotels:** Would provide vital exposure to the tourism industry.
 - **Local bars, restaurants, and shopping:** Would provide destination points scattered throughout a city (as opposed to targeting specific office sites, for example).
 - **Local governments:** Would need regulatory approval (and certain legislation to ensure no liability).
